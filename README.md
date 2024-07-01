@@ -1,2 +1,0 @@
-# javaScript
-#JavaScript #Programação #AprendiNaAlura
